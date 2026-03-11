@@ -6,5 +6,4 @@
 
 ```bash
 $ whoami
-> developer // plants enthusiast // zombie hunter
-</div>
+> developer // peashooter fan
