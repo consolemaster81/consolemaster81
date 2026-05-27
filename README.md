@@ -1,10 +1,31 @@
 <div align="center">
 
-# keane
+<table>
+<tr>
+<td valign="top" width="400">
+╔══════════════════════════════════════════════╗
+║                                              ║
+║  $ whoami                                    ║
+║  > keane                                     ║
+║                                              ║
+║  $ cat bio.txt                               ║
+║  > infinite creativity. one developer.       ║
+║                                              ║
+║  $ cat stack.txt                             ║
+║  > typescript  react  node  postgres         ║
+║                                              ║
+║  $ status                                    ║
+║  > online ●                                  ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
-<img src="https://media1.tenor.com/m/wbpJElzePZ0AAAAd/scuba-cat.gif" alt="scuba cat" width="250" />
+</td>
+<td valign="middle" align="center" width="200">
 
-### bio
-infinite creativity. one developer.
+![scuba cat](https://media1.tenor.com/m/Xn3TfHpAJiMAAAAd/scuba-cat-scuba.gif)
+
+</td>
+</tr>
+</table>
 
 </div>
