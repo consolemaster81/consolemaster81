@@ -12,7 +12,7 @@
 
 ### bio
 
-infinite creativity. one developer.
+infinite curiosity. one developer.
 
 ### role
 software engineer, founding developer </br>
