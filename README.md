@@ -6,7 +6,7 @@
 
 
 
-<img src="https://media1.tenor.com/m/Xn3TfHpAJiMAAAAd/scuba-cat-scuba.gif" alt="scuba cat" width="250" />
+<img src="https://media1.tenor.com/m/Rd0jrWH5JjgAAAAd/cat-scuba.gif" alt="scuba cat" width="250" />
 
 
 
