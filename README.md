@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Xn3TfHpAJiMAAAAd/scuba-cat-scuba.gif" alt="scuba cat" width="300" />
+# keane
 
-```text
-keane@ubuntu:~$ cat bio.txt
+<img src="https://media1.tenor.com/m/wbpJElzePZ0AAAAd/scuba-cat.gif" alt="scuba cat" width="250" />
+
+### bio
 infinite creativity. one developer.
 
-keane@ubuntu:~$ ./stats.sh
-contributions: [insert_count]
-repositories:  [insert_count]
-days_active:   [insert_count]
+### stats
+
+[![keane's github stats](https://github-readme-stats.vercel.app/api?username=consolemaster81&show_icons=false&hide_border=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
