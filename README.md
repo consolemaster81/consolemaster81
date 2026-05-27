@@ -15,5 +15,5 @@
 infinite creativity. one developer.
 software engineer and founding developer
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=consolemaster81&show_icons=true&locale=en" alt="consolemaster81" /></p>
 </div>
