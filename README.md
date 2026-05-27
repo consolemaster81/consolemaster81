@@ -21,7 +21,9 @@ front end developer
 
 
 
-
-![](https://github-readme-stats.shion.dev/api?username=consolemaster81&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
