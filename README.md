@@ -15,7 +15,7 @@
 infinite creativity. one developer.
 
 ### role
-software engineer, founding developer
+software engineer, founding developer </br>
 front end developer
 
 
