@@ -21,6 +21,6 @@ front end developer
 
 
 
-## My Contribution snake
-![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+## my contribution snake
+![Contribution snake example](https://github.com/consolemaster81/consolemaster81/blob/output/github-contribution-grid-snake.svg)
 </div>
