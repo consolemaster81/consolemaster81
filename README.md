@@ -20,7 +20,4 @@ front end developer
 
 
 
-
-![Snake animation](https://raw.githubusercontent.com/consolemaster81/consolemaster81/output/github-contribution-grid-snake.svg)
-
 </div>
