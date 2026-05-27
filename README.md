@@ -7,8 +7,4 @@
 ### bio
 infinite creativity. one developer.
 
-### stats
-
-[![keane's github stats](https://github-readme-stats.vercel.app/api?username=consolemaster81&show_icons=false&hide_border=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
