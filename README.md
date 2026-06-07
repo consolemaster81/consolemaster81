@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Im Keane. You can call me Kiwi.<br>A front end developer from the Philippines<br>I started developing since 9 years old<br>Im a Badminton athlete from the Philippines
+Hi Im Keane. You can call me Kiwi.<br>A front end developer from the Philippines.<br>I started developing since 9 years old.<br>Im a Badminton athlete from the Philippines.
 
 
 # 💻 Tech Stack:
