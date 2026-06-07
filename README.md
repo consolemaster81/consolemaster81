@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front end developer from the Philippines<br>I started developing since 9 years old
+Hi Im Keane.<br>A front end developer from the Philippines<br>I started developing since 9 years old<br>Im a Badminton athlete from the Philippines
 
 
 # 💻 Tech Stack:
