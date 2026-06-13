@@ -9,8 +9,3 @@ You can call me Kiwi. I am a front end developer coming from the Philippines.<br
 # GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=consolemaster81&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/consolemaster81/consolemaster81/output/github-stats.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/consolemaster81/consolemaster81/output/github-stats-crt.png">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=consolemaster81&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
-</picture>
