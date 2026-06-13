@@ -9,6 +9,4 @@ You can call me Kiwi. I am a front end developer coming from the Philippines.<br
 # GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=consolemaster81&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 
-<!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?username=consolemaster81
-
+https://pixel-profile.vercel.app/api/github-stats?username=<consolemaster81>&theme=road_trip&pixelate_avatar=false
